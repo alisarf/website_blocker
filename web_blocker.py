@@ -33,16 +33,8 @@ def block_websites(start_hour , end_hour):
             print("Good Time")
         time.sleep(3)
 
-#To activate code unlock below statement
-'''
 if __name__ == '__main__':
     block_websites(7,11)
 
-'''
 
-#set time range ie (7,11) , needs military time, would be to run it from 7 am to 11pm
-
-#reference link: https://hackernoon.com/a-simple-guide-to-building-a-website-blocker-in-python-px1x3t6f
-
-
-    #https://hackernoon.com/a-simple-guide-to-building-a-website-blocker-in-python-px1x3t6f
+#set time range on above line ie (7,11) , needs military time. This would run from 7 am to 11am
